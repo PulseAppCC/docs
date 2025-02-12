@@ -34,7 +34,7 @@
     "remark-gfm": "^4.0.0",
     "remote-mdx": "^0.0.8",
     "simple-git": "^3.27.0",
-    "tailwind-merge": "^2.5.3",
+    "tailwind-merge": "^3.0.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
